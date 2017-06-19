@@ -7,8 +7,15 @@ comments: true
 modified: 2017-07-16
 ---
 
-Hailing from Jaipur, I'm currently pursuing Computer Science from Birla Institute of Technology and Science.
+Hailing from Jaipur, I’m currently pursuing Computer Science from Birla Institute of Technology and Science Pilani.
+ 
+I have been into development for quite some time now, mostly working with JavaScript and Python. Most of it was done while contributing to [Perfherder](https://wiki.mozilla.org/EngineeringProductivity/Projects/Perfherder), Mozilla’s dashboard to analyse performance test results. I have written python scripts to automate small tasks. Machine Learning has recently caught my interest.
 
-I have been into development for quite some time now, mostly working with JavaScript and Python. Machine Learning has caught my interest recently.
+A few of all the things I like:
 
-I am an avid reader, I follow cricket and I love trying new cuisines (being a vegetarian puts a lot of restrictions here).
++ Reading, anything from a blog to a novel.
++ Cricket, would leave everything to watch India’s match.
++ Trying out different cuisines, being a vegetarian poses a downside.
++ Music, minus the EDM.
++ Wonder Woman <3
++ And yes, coding. 
