@@ -30,10 +30,12 @@ image:
     {% else %}
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
+    <h3 >{{post.subtitle}}</h3>
   </header>
-  <div class="entry-content">
-    {{ post.content }}
-  </div><!-- /.entry-content -->
+  <div class="post-entry">
+      {{ post.content | truncatewords: 50}}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read more]</a>
+    </div>
 </article><!-- /.hentry -->
 {% endfor %}
 

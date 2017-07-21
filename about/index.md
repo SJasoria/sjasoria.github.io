@@ -10,7 +10,7 @@ Hi! My name is Shruti Jasoria.
 
 Hailing from Jaipur, I’m currently a fourth year undergrad, pursuing Computer Science from Birla Institute of Technology and Science Pilani.
  
-I have been into development for quite some time now, mostly working with JavaScript and Python. Most of it was done while contributing to [Perfherder](https://wiki.mozilla.org/EngineeringProductivity/Projects/Perfherder), Mozilla’s dashboard to analyse performance test results. I have written python scripts to automate small tasks. Recently, machine Learning has caught my interest.
+I have been into development for quite some time now, mostly working with JavaScript and Python. Most of it was done while contributing to [Perfherder](https://wiki.mozilla.org/EngineeringProductivity/Projects/Perfherder), Mozilla’s dashboard to analyse performance test results. I have written python scripts to automate small tasks. Recently, Machine Learning has caught my interest.
 
 A few of all the things I like:
 
